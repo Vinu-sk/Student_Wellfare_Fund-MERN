@@ -152,7 +152,8 @@ export default function CreateDonation() {
                       />
                     </div>
                     <div class="input-group mb-3 input-group input-group-outline mb-3">
-                      {/* <input
+                      {/* 
+                      <input
                       type="number"
                       class="form-control"
                       placeholder="Contact Number*"
